@@ -1,2 +1,2 @@
 # Be The Hero
- Projetto da Semana OmniStack 11
+ Projeto da Semana OmniStack 11
