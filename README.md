@@ -1,2 +1,2 @@
 # Be The Hero
- Projeto da Semana OmniStack 11
+ Projeto desenvolvido durante da Semana OmniStack 11 em conjunto com a Rocketseat.
